@@ -37,16 +37,41 @@ background-image: url(images/dream-bg.png);
 background-repeat: no-repeat;
 background-position: right;
 }
-p{
+p h3{
     text-align: justify;
     padding-right: 5px;
 }
+.experience{
+    display: flex;
+    text-align: justify;
+   
+   
+}
+.exp{
+    text-align: center;
+    color: orangered;
+}
+.html{
+    border: tomato;
+    
+    padding-right: 5px;
+    text-align: center; background-color: rgb(230, 64, 64);
+    color: rgb(32, 30, 30);
 
 
+    
+}
+.color1{
+    color: lightseagreen;
+}
 
+.good{
+   
+}
+.back{
+background-color: turquoise;
 
-
-
+}
 
 
 
