@@ -52,8 +52,6 @@ p h3{
     color: orangered;
 }
 .html{
-    border: tomato;
-    
     padding-right: 5px;
     text-align: center; background-color: rgb(230, 64, 64);
     color: rgb(32, 30, 30);
@@ -61,6 +59,12 @@ p h3{
 
     
 }
+.html1{
+
+}
+
+
+
 .color1{
     color: lightseagreen;
 }
